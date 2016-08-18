@@ -1,4 +1,6 @@
-# [Mario Becerra](http://mariobecerra.github.io/)
+# Centro de Análisis de Datos para la salud
 
-[Applied Mathematician - Data Analyst - Data Scientist]
+[Webpage](http://www.cadsalud.org/)
+[Blog](http://cadsalud.github.io/)
+
 
